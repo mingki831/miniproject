@@ -1,0 +1,83 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "username": "테스트",
+      "title": "테스트",
+      "body": "테스트"
+    },
+    {
+      "title": "test",
+      "content": "test",
+      "id": 3
+    },
+    {
+      "title": "test2",
+      "content": "test2",
+      "id": 4
+    },
+    {
+      "title": "test3",
+      "content": "test3",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "gameId": "1",
+      "id": 1,
+      "username": "테스트",
+      "content": "테스트hhzzzㅇㄴㅁㅇㄴㅁ"
+    },
+    {
+      "gameId": "1",
+      "username": "ㄹㅇㄴㄹㅇ",
+      "content": "ㄹㅇㄴㄹㅇㄴ",
+      "id": 5
+    },
+    {
+      "postId": "13",
+      "comment": {
+        "username": "",
+        "content": "댓글"
+      },
+      "id": 6
+    },
+    {
+      "postId": "13",
+      "comment": {
+        "username": "",
+        "content": "댓글"
+      },
+      "id": 7
+    },
+    {
+      "postId": "13",
+      "comment": {
+        "content": "댓글"
+      },
+      "id": 8
+    },
+    {
+      "postId": "13",
+      "comment": {
+        "content": "댓글!"
+      },
+      "id": 9
+    },
+    {
+      "postId": "13",
+      "comment": {
+        "content": "댓글!!"
+      },
+      "id": 10
+    },
+    {
+      "postId": "13",
+      "comment": {
+        "content": "안녕~~"
+      },
+      "id": 11
+    }
+  ]
+}

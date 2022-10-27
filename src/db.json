@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "username": "테스트",
+      "title": "테스트",
+      "body": "테스트"
+    },
+    {
+      "title": "zz",
+      "body": "zz",
+      "username": "zz",
+      "id": 2
+    },
+    {
+      "title": "정은이의 제목",
+      "body": "정은이의 내용",
+      "username": "정은이",
+      "id": 3
+    },
+    {
+      "title": "zz",
+      "body": "zzzzzz",
+      "username": "zzz",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "gameId": "1",
+      "id": 1,
+      "username": "테스트",
+      "content": "테스트hh"
+    }
+  ]
+}
